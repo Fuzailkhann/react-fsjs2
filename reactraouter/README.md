@@ -1,7 +1,8 @@
 # FSJS2 react-Raoter DOM homework
 ## my name is : Fuzail khan
 
-[live link](https://dainty-mermaid-844b7b.netlify.app)
+  [live link][https://dainty-mermaid-844b7b.netlify.app]
+ 
 
 ## Available Scripts
 
@@ -69,3 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+[https://dainty-mermaid-844b7b.netlify.app]: https://dainty-mermaid-844b7b.netlify.app
