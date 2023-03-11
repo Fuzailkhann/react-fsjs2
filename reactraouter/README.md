@@ -1,7 +1,7 @@
 # FSJS2 react-Raoter DOM homework
 ## my name is : Fuzail khan
 
-[live link]("https://dainty-mermaid-844b7b.netlify.app")
+[live link](https://dainty-mermaid-844b7b.netlify.app)
 
 ## Available Scripts
 
