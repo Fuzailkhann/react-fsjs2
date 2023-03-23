@@ -65,3 +65,62 @@
     justify-content: center;
     align-items: center;
 }
+.main-btn{
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+@media only screen and (max-width: 400px) {
+    body{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+    }
+    .choice{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .user-hand{
+        width: 100px;
+    }
+    .computer-hand{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 100px;
+    }
+    .choice-user{
+        display: flex;
+        flex-direction: column;
+    }
+    .choice-computer{
+        display: flex;
+        flex-direction: column;
+    }
+    .main-btn{
+        display: flex;
+        position: relative;
+        right: 170px;
+        
+    
+    }
+    
+    .btn{
+        width: 17vw;
+        padding: 10px;
+        /* position:relative ;
+        right: 50px; */
+    }
+    .points{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-size: 15px;
+    }
+
+  }

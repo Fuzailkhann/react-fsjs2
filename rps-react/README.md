@@ -2,4 +2,4 @@
 ## FSJS2 assignment
 
 
-[live link](https://marvelous-rabanadas-e2d2d7.netlify.app/)
+[live link](https://deft-llama-b16e3c.netlify.app)
