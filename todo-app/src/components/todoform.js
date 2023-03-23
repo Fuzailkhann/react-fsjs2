@@ -5,7 +5,7 @@ const Todoform =({handleSubmit ,todo , setTodo  , editid}) => {
     <div>
       <form style={{display:"flex" ,gap:"5px", justifyContent:"center" , alignItems:"center" , }} action="" onSubmit={handleSubmit} >
         <input style={{padding:"12px" ,fontSize:"15px" ,width:"35vw" }} type="text" placeholder='type here' value={todo} onChange={(e) =>setTodo(e.target.value)} />
-        <button style={{padding:"14px", backgroundColor:"navy" ,color:"white" , border:"none"}} >{editid ? <i class="fa-regular fa-pen-to-square"></i> : <i class="fa-solid fa-plus"></i>}</button>
+        <button style={{padding:"14px", backgroundColor:"navy" ,color:"white" , border:"none" , cursor:"pointer"}} >{editid ? <i class="fa-regular fa-pen-to-square"></i> : <i class="fa-solid fa-plus"></i>}</button>
       </form>
     </div>
   )
